@@ -27,7 +27,6 @@ PRODUCT_PACKAGES += \
     Camera2 \
     Contacts \
     DeskClock \
-    Gallery2 \
     Launcher3QuickStep \
     Music \
     OneTimeInitializer \
